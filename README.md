@@ -31,7 +31,7 @@ images.
 * Created and compiled test program
 * Collect and compile documentation.
 
-# Detailed Document with the all the steps followed and answers for questions(1-4) is included in the github repo, filename - CMPE283Assignment_2.pdf
+# Detailed Document with all the steps followed and answers for questions(1-4) is included in the github repo, filename - CMPE283Assignment_2.pdf
 
 
 # Test Working Kernel - Confirm Environment
