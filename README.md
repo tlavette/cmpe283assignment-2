@@ -31,6 +31,8 @@ images.
 * Created and compiled test program
 * Collect and compile documentation.
 
+**Document with all the steps followed and question answered is included in the github repo.
+
 
 # Test Working Kernel - Confirm Environment
 
@@ -85,21 +87,4 @@ Downloaded GEMU-compatible OS image
 
 Created and compiled code to test inside of the L2 VM
 
-
-
-# Perform CPUID Confirmation and Test
-
-
-
-**CPUID leaf node %eax=0x4FFFFFFF**
-
-Results: 
-
-Issues:
-
-**CPUID leaf node %eax=0x4FFFFFFE**
-
-Results:
-
-Issues:
 
