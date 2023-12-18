@@ -31,7 +31,7 @@ images.
 * Created and compiled test program
 * Collect and compile documentation.
 
-**Document with all the steps followed and question answered is included in the github repo.
+# Detailed Document with the all the steps followed and answers for questions(1-4) is included in the github repo.
 
 
 # Test Working Kernel - Confirm Environment
