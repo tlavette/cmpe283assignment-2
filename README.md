@@ -14,7 +14,8 @@ The following was the overall effort dynamic placed in the completion of this as
 
 **Tonja Jean**
 * Confirmed the VM module and kernel were successfully running.  
-* Performed a collaborative review of the requirements to determine the resources needed to complete for assignment-2. 
+* Performed a collaborative review of the requirements to determine the resources needed to complete for assignment-2.
+* Installed build-essentials and cpuid package in nested VM.
 * Performed code update of CPUID leaf node %eax=0x4FFFFFFF
 * Performed final code refactoring and compilation.
 * Test and debug Collaboration
@@ -23,7 +24,9 @@ The following was the overall effort dynamic placed in the completion of this as
 **Puja Kumari**
 * Confirmed the VM module and kernel were successfully running.  
 * Performed a collaborative review of the requirements to determine the resources needed to complete for assignment-2.
-* Created Nested VM and installed build-essential cpuid package.
+*	Installed the nested Ubuntu VM inside the outer VM
+* As part of nested VM installation, installed other packages like Virt-Manger, and downloaded OS iso
+images.
 * Performed code update of CPUID leaf node %eax=0x4FFFFFFE
 * Created and compiled test program
 * Collect and compile documentation.
