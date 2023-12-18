@@ -6,7 +6,7 @@ Prerequisite:  Completion of Assignment #1
 This assignment is designed to demonstrate modifying CPU Identification (CPUID) processor instruction behavior inside the KVM hypervisor.   This instruction used by system utilities and operating systems for capturing detailed information about the CPU.
 
 # Team Members
-Puja Kumari
+Puja Kumari (017460157)
 
 Tonja Jean
 
@@ -23,7 +23,7 @@ The following was the overall effort dynamic placed in the completion of this as
 **Puja Kumari**
 * Confirmed the VM module and kernel were successfully running.  
 * Performed a collaborative review of the requirements to determine the resources needed to complete.
-* Installed Nested VM  
+* Created Nested VM and installed build-essential cpuid package.
 * Performed code update of CPUID leaf node %eax=0x4FFFFFFE
 * Created and compiled test program
 * Test and debug Collaboration
